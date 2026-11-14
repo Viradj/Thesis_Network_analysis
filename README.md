@@ -1,7 +1,7 @@
 # Interlocking directors and fraud in Dutch healthcare companies
 
 R code from my MSc thesis in Sociology (Utrecht University, 2021),
-written during a research internship at Kurtosis.
+written during a research internship.
 
 ## The question
 Since 2015, Dutch municipalities are responsible for social support
